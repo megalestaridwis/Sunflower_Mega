@@ -232,7 +232,7 @@ fun sunFlower(modifier: Modifier = Modifier) {
                         }
                 )
                 Text(
-                    text = "Selamat kamu telah berhasil menanam, klik gambar untuk memulai kembali",
+                    text = "Selamat kamu sudah berhasil menanam, klik gambar untuk memulai kembali",
                     fontSize = 15.sp,
                     fontWeight = FontWeight.Bold,
                     modifier = Modifier.padding(top = 25.dp).padding(horizontal = 10.dp),
